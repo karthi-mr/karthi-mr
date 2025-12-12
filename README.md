@@ -64,6 +64,15 @@ Previously, I worked at **Zoho Corporation** as a **QA Engineer**, gaining stron
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthi-mr&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthi-mr&layout=compact&hide_border=true&theme=tokyonight" height="150"/>
+</p>
+
+---
+
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/karthi-mr  
 - **GitHub:** https://github.com/karthi-mr  
